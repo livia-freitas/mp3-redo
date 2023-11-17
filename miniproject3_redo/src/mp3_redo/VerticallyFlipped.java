@@ -1,4 +1,4 @@
-package lab.polymorphism;
+package mp3_redo;
 
 public class VerticallyFlipped implements TextBlock{
   TextBlock contents;

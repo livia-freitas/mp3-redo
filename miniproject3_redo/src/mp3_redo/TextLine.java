@@ -1,4 +1,4 @@
-package lab.polymorphism;
+package mp3_redo;
 
 /**
  * One line of text.

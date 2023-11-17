@@ -1,4 +1,4 @@
-package lab.polymorphism;
+package mp3_redo;
 
 /**
  * Simple blocks of text for a lab on polymorphism

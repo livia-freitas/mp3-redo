@@ -1,4 +1,4 @@
-package lab.polymorphism;
+package mp3_redo;
 
 /**
  * The horizontal composition of two text blocks.

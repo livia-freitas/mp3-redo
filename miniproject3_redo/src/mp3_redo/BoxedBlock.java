@@ -1,4 +1,4 @@
-package lab.polymorphism;
+package mp3_redo;
 
 /**
  * A text block surrounded by a box.

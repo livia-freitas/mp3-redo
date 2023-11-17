@@ -1,4 +1,4 @@
-package lab.polymorphism;
+package mp3_redo;
 
 /**
  * Author: Livia Stein Freitas Centers a TextBlock in a specified width.
